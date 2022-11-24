@@ -1,7 +1,6 @@
 # telegram-ban-tool
 
-![report-min](https://user-images.githubusercontent.com/118540164/203842821-c85e1a10-78e0-47e2-8c78-1dc053ab36c3.gif)
-
+<img width="544" alt="repottool" src="https://user-images.githubusercontent.com/118540164/203845002-87bbe91f-5611-4165-868a-02da65568a17.png">
 
 
 FREE TOOL FOR EVERYONE
