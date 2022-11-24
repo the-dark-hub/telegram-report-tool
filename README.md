@@ -1,6 +1,7 @@
 # telegram-ban-tool
 
-![report](https://user-images.githubusercontent.com/118540164/203836645-4f42420c-14c9-47a4-a143-7a499f0a6bec.gif)
+![report-min](https://user-images.githubusercontent.com/118540164/203842821-c85e1a10-78e0-47e2-8c78-1dc053ab36c3.gif)
+
 
 
 FREE TOOL FOR EVERYONE
