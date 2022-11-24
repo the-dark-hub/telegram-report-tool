@@ -1,5 +1,8 @@
 # telegram-ban-tool
 
+DARK HUB > https://t.me/darkestscripts
+
+
 <img width="544" alt="repottool" src="https://user-images.githubusercontent.com/118540164/203845002-87bbe91f-5611-4165-868a-02da65568a17.png">
 
 
