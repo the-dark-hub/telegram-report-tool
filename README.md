@@ -1,6 +1,6 @@
 # telegram-ban-tool
 
-DARK HUB > https://t.me/webtarus
+DARK HUB > https://t.me/darkestscripts
 
 
 <img width="544" alt="repottool" src="https://user-images.githubusercontent.com/118540164/203845002-87bbe91f-5611-4165-868a-02da65568a17.png">
@@ -11,7 +11,7 @@ FREE TOOL FOR EVERYONE
 
 <b>NOTE</b> > IF YOU DON'T KNOW HOW TO USE A GOLANG TOOL
 
-WE ARE HERE > https://t.me/webtarus
+WE ARE HERE > https://t.me/darkestscripts
 
 THIS TOOL IS WRITTEN IN <b>"GOLANG"</b>
 
@@ -22,7 +22,7 @@ THIS TOOL IS WRITTEN IN <b>"GOLANG"</b>
 
 NOTE > IF YOU NEED ADVANCED FUNCTION OF BANNING CHANNEL OR GROUP
 
-MESSAGE HERE > https://t.me/webtarus
+MESSAGE HERE > https://t.me/darkestscripts
 
 # VARIABLES NEEDED
  ---------------
@@ -37,7 +37,7 @@ IT IS JUST A PROJECT TO EXPLORE GOLANG CODES
 
 IF YOU NEED ANY PRIVATE DEAL 
 
-WE ARE HERE > https://t.me/webtarus
+WE ARE HERE > https://t.me/darkestscripts
 
 DARK HUB TOOLS  ✅
 
